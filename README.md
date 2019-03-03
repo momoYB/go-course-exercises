@@ -29,7 +29,5 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 * #### **TODO:** [Exercises - Level 11](https://github.com/momoYB/go-course-exercises)
 ## Writing Documentation
 * #### **TODO:** [Exercises - Level 12](https://github.com/momoYB/go-course-exercises)
-##Testing & Benchmarking
+## Testing & Benchmarking
 * #### **TODO:** [Exercises - Level 13](https://github.com/momoYB/go-course-exercises)
-
-**TODO:** Add table of contents
