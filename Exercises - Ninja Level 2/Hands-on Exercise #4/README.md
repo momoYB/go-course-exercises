@@ -1,4 +1,4 @@
-#Hands-on Exercise #4
+# Hands-on Exercise #4
 
 Write a program that:
   * assigns an integer value to a variable.
