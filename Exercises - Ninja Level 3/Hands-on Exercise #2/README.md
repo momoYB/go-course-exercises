@@ -1,6 +1,6 @@
 # Hands on Exercise #2  
    
-Print every rune code point of hte uppercase alphabet three times.
+Print every rune code point of the uppercase alphabet three times.
  <br>Your output should look like this:
 
 ``` 
