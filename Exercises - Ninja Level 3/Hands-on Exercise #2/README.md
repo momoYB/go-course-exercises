@@ -21,3 +21,4 @@ Print every rune code point of hte uppercase alphabet three times.
     U+005A 'Z'
     U+005A 'Z'
 ```
+* [Solution](main.go)
