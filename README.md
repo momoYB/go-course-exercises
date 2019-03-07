@@ -10,7 +10,7 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Programming Fundamentals
 * #### [Exercises - Level 2](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%201)
 ## Control Flow
-* #### **TODO:** [Exercises - Level 3](https://github.com/momoYB/go-course-exercises)
+* ####  [Exercises - Level 3](https://github.com/momoYB/go-course-exercises/blob/master/Exercises%20-%20Ninja%20Level%203/README.md)
 ## Grouping Data
 * #### **TODO:** [Exercises - Level 4](https://github.com/momoYB/go-course-exercises)
 ## Structs
