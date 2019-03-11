@@ -1,6 +1,6 @@
 # Hands on Exercise #6
    
-Create a slice to store the names of all of the  provinces of Bulgaria. <br>Print out all of the values, along with their index position in the slice, **without** using the `range` clause. <br><br> *Here is a list of the states:*
+Create a slice to store the names of all of the  provinces of Bulgaria. <br>Print out all of the values, along with their index position in the slice, **without** using the `range` clause. <br><br> *Here is a list of the provinces:*
 
     
  ```
