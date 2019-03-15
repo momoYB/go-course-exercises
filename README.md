@@ -12,7 +12,7 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Control Flow
 * ####  [Exercises - Level 3](https://github.com/momoYB/go-course-exercises/blob/master/Exercises%20-%20Ninja%20Level%203/README.md)
 ## Grouping Data
-* #### **TODO:** [Exercises - Level 4](https://github.com/momoYB/go-course-exercises)
+* ####  [Exercises - Level 4](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%204)
 ## Structs
 * #### **TODO:** [Exercises - Level 5](https://github.com/momoYB/go-course-exercises)
 ## Functions
