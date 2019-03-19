@@ -14,7 +14,7 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Grouping Data
 * ####  [Exercises - Level 4](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%204)
 ## Structs
-* #### **TODO:** [Exercises - Level 5](https://github.com/momoYB/go-course-exercises)
+* ####  [Exercises - Level 5](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%205)
 ## Functions
 * #### **TODO:** [Exercises - Level 6](https://github.com/momoYB/go-course-exercises)
 ## Pointers
