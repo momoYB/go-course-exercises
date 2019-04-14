@@ -18,7 +18,7 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Functions
 * ####  [Exercises - Level 6](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%206)
 ## Pointers
-* #### **TODO:** [Exercises - Level 7](https://github.com/momoYB/go-course-exercises)
+* ####  [Exercises - Level 7](https://github.com/momoYB/go-course-exercises/tree/master/Exercises%20-%20Ninja%20Level%207)
 ## Application
 * #### **TODO:** [Exercises - Level 8](https://github.com/momoYB/go-course-exercises)
 ## Concurrency
