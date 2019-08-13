@@ -49,12 +49,8 @@ func main() {
 
 	users := []user{u1, u2, u3}
 
-	//fmt.Println(users)
-
 	err := json.NewEncoder(os.Stdout).Encode(users)
 	if err != nil {
 		fmt.Println(err)
 	}
-
-	fmt.Println(users)
 }
